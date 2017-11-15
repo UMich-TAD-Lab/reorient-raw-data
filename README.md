@@ -59,7 +59,7 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 - up/down: the crosshair should be on top of the anterior commissure
 - pitch: the horizontal cross hair should intersect the posterior commissure
 
-![Image](acpc.png)
+->![Image](acpc.png)<-
 
 **AC in red, PC in yellow**
 
