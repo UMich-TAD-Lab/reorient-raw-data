@@ -29,7 +29,8 @@ SPM 12 should automatically open
 1. Click Done
 
 Check to make sure this image has a does NOT have a scalp (if it DOES have a scalp hit display in SPM 12 and reselect eht1spgr)
-(insert image of scalp vs. no scalp)
+
+![Image](scalp.png) ![Image](noscalp.png)
 
 ## To enter the reorientation coordinates
 1. First you must click the crosshair position button labeled “Origin” to show where the current origin is. This should read mm: 0.0 0.0 0.0
