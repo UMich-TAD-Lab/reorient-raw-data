@@ -36,7 +36,8 @@ Check to make sure this image has a does NOT have a scalp ( if it DOES have a sc
 1. Next enter the coordinates as listed in the “resting state tracking log” under right, forward, up, pitch, roll and yaw. 
 
 ## Check to make sure that the coordinates are in the correct position
-(insert example images)
+
+![Image](coordinates.png)
 
 ### coronal view landmarks for alignment
 - up/down: horizontal alighment with anterior comissure (this is the white matter just below the fornix)
