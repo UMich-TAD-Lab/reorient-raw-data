@@ -37,7 +37,7 @@ Check to make sure this image has a does NOT have a scalp ( if it DOES have a sc
 
 ## Check to make sure that the coordinates are in the correct position
 
-<![Image]("coordinates.png")width="400" height="790">
+![Image](coordinates.png)
 
 ### coronal view landmarks for alignment
 - up/down: horizontal alighment with anterior comissure (this is the white matter just below the fornix)
