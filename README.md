@@ -53,7 +53,8 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 ### sagittal view landmarks for alignment
 - up/down: the crosshair should be on top of the anterior commissure
 - pitch: the horizontal cross hair should intersect the posterior commissure
-(insert saittal view example image)
+
+![Image](acpc.png)
 
 ## What to do if coordinates are incorrect
 - double check that you have selected the crosshair position button
