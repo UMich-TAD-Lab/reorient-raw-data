@@ -85,5 +85,4 @@ Credit: Chris Rorden (2002)
 
 **References**
 
-Rorden, C. (2002, October 13). The Anterior Commissure . Retrieved November 15, 2017, from
-    http://people.cas.sc.edu/rorden/anatomy/na_ac.html
+Rorden, C. (2002, October 13). The Anterior Commissure. Retrieved November 15, 2017, from http://people.cas.sc.edu/rorden/anatomy/na_ac.html
