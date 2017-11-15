@@ -28,7 +28,7 @@ SPM 12 should automatically open
 1. Select eht1spgr
 1. Click Done
 
-Check to make sure this image has a does NOT have a scalp ( if it DOES have a scalp hit display in SPM 12 and reselect eht1spgr)
+Check to make sure this image has a does NOT have a scalp (if it DOES have a scalp hit display in SPM 12 and reselect eht1spgr)
 (insert image of scalp vs. no scalp)
 
 ## To enter the reorientation coordinates
