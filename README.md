@@ -6,7 +6,7 @@
 
 ## To open reorientation log
 - Open “FF_Resting Folder”
-- Open Resting State Tracking Log ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNp9fz6cUquPPVvXn6UlMHFMGTzRChvB_7f9pFvpboLTt5sFeJ8ze4stBwyYLKMnogVi8Cds-xIkYn/pub?output=xlsx)
+- Open Resting State Tracking Log ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNp9fz6cUquPPVvXn6UlMHFMGTzRChvB_7f9pFvpboLTt5sFeJ8ze4stBwyYLKMnogVi8Cds-xIkYn/pub?output=xlsx))
 - Select No scalp reorientation sheet
 
 ## To open SPM12
