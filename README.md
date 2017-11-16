@@ -35,8 +35,9 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 **scalp**
 
 ![Image](noscalp.png)
+|:--:| 
+| no scalp |
 
-**no scalp**
 
 ## To enter the reorientation coordinates
 1. First you must click the crosshair position button labeled “Origin” to show where the current origin is. This should read mm: 0.0 0.0 0.0
