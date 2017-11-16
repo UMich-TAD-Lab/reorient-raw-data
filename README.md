@@ -6,7 +6,7 @@
 
 ## To open reorientation log
 - Open “FF_Resting Folder”
-- Open Resting State Tracking log (include template for tracking log)
+- Open Resting State Tracking Log ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNp9fz6cUquPPVvXn6UlMHFMGTzRChvB_7f9pFvpboLTt5sFeJ8ze4stBwyYLKMnogVi8Cds-xIkYn/pub?output=xlsx)
 - Select No scalp reorientation sheet
 
 ## To open SPM12
@@ -80,9 +80,9 @@ Credit: Chris Rorden (2002)
 1. Make range 1:300 in order to collect all scans, or large enough range to cover all data. *MAKE SURE TO SELECT ALL PRUN IMAGES*
 1. Hit done and it will apply reorientation 
 1. Display a random functional image to assure it was reoriented to acpc.
-1. Once the reorientation is competed put an x in the reorientation completed column on the tracking log
+1. Once the reorientation is competed put an x in the reorientation completed column on the [tracking log](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNp9fz6cUquPPVvXn6UlMHFMGTzRChvB_7f9pFvpboLTt5sFeJ8ze4stBwyYLKMnogVi8Cds-xIkYn/pub?output=xlsx)
 
 
-**References**
+#### References
 
 Rorden, C. (2002, October 13). The Anterior Commissure. Retrieved November 15, 2017, from http://people.cas.sc.edu/rorden/anatomy/na_ac.html
