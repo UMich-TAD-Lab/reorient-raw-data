@@ -61,8 +61,8 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 - pitch: the horizontal cross hair should intersect the posterior commissure
 
 ![Image](acpc.png)
-
-**AC in red, PC in yellow**
+|:--:| 
+| AC in red, PC in yellow |
 Credit: Chris Rorden (2002)
 
 ## What to do if coordinates are incorrect
