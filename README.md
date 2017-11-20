@@ -1,6 +1,6 @@
 # Resting State Reorientation - No Scalp Data
-Protocol Developed by Kristen Stauffer
-Webpage Developed by Andie Bulbin
+- Protocol Developed by Kristen Stauffer
+- Webpage Developed by Andie Bulbin
 
 ## The NO scalp resting state data includes the following imaging data files
 -	Anatomical: eht1spgr
