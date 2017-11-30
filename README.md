@@ -66,6 +66,8 @@ NO SCALP
 ![Image](acpc.png)
 <p style="text-align: center;">
 AC in red, PC in yellow
+</p>
+<p style="text-align: center;">
 Credit: Chris Rorden (2002)
 </p>
 
