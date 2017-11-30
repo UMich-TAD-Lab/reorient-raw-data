@@ -34,13 +34,13 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 
 ![Image](scalp.png)
 <p style="text-align: center;">
-**scalp**
+SCALP
 </p>
 
 ![Image](noscalp.png)
-
-**no scalp**
-
+<p style="text-align: center;">
+NO SCALP
+</p>
 
 ## To enter the reorientation coordinates
 1. First you must click the crosshair position button labeled “Origin” to show where the current origin is. This should read mm: 0.0 0.0 0.0
@@ -64,7 +64,9 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 - pitch: the horizontal cross hair should intersect the posterior commissure
 
 ![Image](acpc.png)
-**AC in red, PC in yellow**
+<p style="text-align: center;">
+AC in red, PC in yellow
+</p>
 
 Credit: Chris Rorden (2002)
 
