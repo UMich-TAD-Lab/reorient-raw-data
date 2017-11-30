@@ -32,8 +32,8 @@ SPM 12 should automatically open
 
 Check to make sure this image has a does NOT have a scalp (if it DOES have a scalp hit display in SPM 12 and reselect eht1spgr)
 
-![Image](scalp.png)
-**scalp**
+![scalp](scalp.png)
+
 
 ![Image](noscalp.png)
 **no scalp**
