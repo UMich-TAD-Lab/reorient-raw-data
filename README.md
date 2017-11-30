@@ -42,10 +42,6 @@ SCALP
 NO SCALP
 </p>
 
-## To enter the reorientation coordinates
-1. First you must click the crosshair position button labeled “Origin” to show where the current origin is. This should read mm: 0.0 0.0 0.0
-1. Next enter the coordinates as listed in the “resting state tracking log” under right, forward, up, pitch, roll and yaw. 
-
 ## Check to make sure that the coordinates are in the correct position
 
 ![Image](coordinates.png)
@@ -74,8 +70,11 @@ Credit: Chris Rorden (2002)
 
 ## What to do if coordinates are incorrect
 - double check that you have selected the crosshair position button
-- check to make sure you are using NO scalp coordinates
-- in the resting tracking log, highlight the reorientation completed cell in yellow and write a note saying the coordinates were incorrect. *DO NOT COMPLETE REORIENTATION IF ORIGIN IS INCORRECT*
+- Adjust Up, Right, and Forward fields by incriments of 5-10 initially 
+- Adjust Roll, Yaw, and Pitch by incriments of .02 
+- Fine ajustments on Up, Right, and Forward fields by incriments of 1
+
+
 
 ## How to apply the reorientation
 1. Select reorient images
