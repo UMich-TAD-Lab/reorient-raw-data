@@ -34,7 +34,7 @@ Check to make sure this image has a does NOT have a scalp (if it DOES have a sca
 
 ![Image](scalp.png)
 <p style="text-align: center;">
-**SCALP**
+SCALP
 </p>
 
 ![Image](noscalp.png)
