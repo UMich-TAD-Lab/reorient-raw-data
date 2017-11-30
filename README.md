@@ -66,9 +66,9 @@ NO SCALP
 ![Image](acpc.png)
 <p style="text-align: center;">
 AC in red, PC in yellow
+Credit: Chris Rorden (2002)
 </p>
 
-Credit: Chris Rorden (2002)
 
 ## What to do if coordinates are incorrect
 - double check that you have selected the crosshair position button
